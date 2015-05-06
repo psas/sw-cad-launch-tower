@@ -1,0 +1,37 @@
+ITEM NO.,SW-File Name(File Name),Vendor,VendorNo,PART NUMBER,Material,QTY.,Price
+1,5ft_Truss,Cosmic Truss,,5ft_Truss,6061-T6 (SS),3,
+2,Base_Plate,Cosmic Truss,,Base_Plate,6061-T6 (SS),2,
+3,Truss_Plate_Coupler,Cosmic Truss,,Truss_Plate_Coupler,6061-T6 (SS),6,
+4,10mm_12mm_Flat_Head_Screw_91294A320,Cosmic Truss,,91294A320,,6,
+5,Truss_Coupler,Cosmic Truss,,Truss_Coupler,6061-T6 (SS),6,
+6,Coupler_Pin,Cosmic Truss,,Coupler_Pin,Plain Carbon Steel,18,
+7,Launch_Rail,,,Launch_Rail,,1,
+8,Guy_Wire,?,?,Guy_Wire,Material <not specified>,3,?
+9,Tri_Plate_Tube,Online Metals,6061-T6 Flat Bar, 1.0in X 2.25in X 12in,Tri_Plate_Tube,6061-T6 (SS),2,$14.31 per 2
+10,Tri_Plate,Online Metals,6061-T6 Flat bar, 0.25in X 5.0in X 24in,Tri_Plate,6061-T6 (SS),4,$15.26 per 2
+11,V_Side_Bar,Online Metals,6061-T6 Flat Bar, 0.5in X 1.0in X 24in,V_Side_Bar,Material <not specified>,4,$6.10 per 2
+12,V_Bar,Online Metals,6061-T6 Flat Bar, 1.0in X 2.25in X random,V_Bar,Material <not specified>,2,$14.28
+13,0.25in_Washer_SS_92141A029,McMaster,92141A029,92141A029,0,8,$3.37 per 100
+14,0.25-20_1.0in_Hex_Bolt_92240A542,McMaster,92240A542,92240A542,,8,$6.93 per 50
+15,0.25in_Quick_Pin_3.5in_94975A429,McMaster,94975A429,94975A429,,4,$5.48
+16,0.25-20_1.75in_Hex_Bolt_92240A548,McMaster,92240A548,92240A548,,8,$5.72 per 25
+17,0.25-20_SS_Nyloc_Nut_91831A029,McMaster,91831A029,91831A029,AISI 304,8,4.30 per 50 pack
+18,0.25in_SS_Washer_96659A106,McMaster,96659A106,96659A106,AISI 304,16,$4.78 per 50 pack
+19,0.375-18_2.0in_Hex_Bolt_SS_92240A632,McMaster,92240A632,92240A632,,4,$6.31 per 10
+20,0.375in_Washer_SS_96659A108,McMaster,96659A108,96659A108,,14,$7.00 per 50
+21,0.375-16_Locknut_SS_91831A127,McMaster,91831A127,91831A127,,10,$7.04 per 25
+22,Tower_V,Online Metals,6061-T6 Flat Bar, 1.25in X 2.0in X 12in,Tower_V,6061-T6 (SS),2,$15.90 per 2
+23,Spiral_Split_Ring_90990A180,McMaster,90990A180,Spiral_Split_Ring_90990A180,AISI 304,19,$10.16 per 50
+24,Tube_Clamp2,Online Metals,6061-T6 Square Bar, 1.25in, 12in long,Tube_Clamp2,6061-T6 (SS),2,$9.93 per 2
+25,Tube_Clamp,Online Metals,6061-T6 Square Bar, 1.25in, 12in long,Tube_Clamp,6061-T6 (SS),2,$9.93 per 2
+26,0.3125_18_2.0in_Allen_Cap_Screw_SS_92196A421,McMaster,92196A421,92196A421,,4,$7.36 per 10
+27,Foot_Arm,Online Metals,6061-T6 Square Tube, 3.0in X 0.25in Wall X 12in,Foot_Arm,6061-T6 (SS),1,$21.47
+28,0.375_3.0in_Quick_Pin_94975A253,McMaster,94975A253,94975A253,,2,$5.78
+29,Rail_Pivot,Online Metals,6061-T6 Flat Bar, 1.0in X 2.5in X 12in,Rail_Pivot,6061-T6 (SS),1,$15.90
+30,0.375_3.0in_Clevis_97245A185,McMaster,97245A185,97245A185,,1,$7.20 per 10
+31,0.375-18_1.5in_Carage_Bolt_SS_92356A587,McMaster,92356A587,92356A587,,2,$4.75 per 10
+32,LTC_Mounting_Bar,Online Metals,6061-T6 Flat Bar, 0.25in X 1.5in X 24in,LTC_Mounting_Bar,6061-T6 (SS),1,$4.57
+33,2.0in_U_Bolt_8896T107,McMaster,8896T107,8896T107,,2,$3.43
+34,0.375-16_1.25in_Carage_Bolt_SS_92356A626,McMaster,92356A626,92356A626,,4,$6.12 per 10
+35,0.5in_Quick_Pin_3.0in_94975A279,McMaster,94975A279,94975A279,,1,$9.79
+36,Tie_Down_Ring,McMaster,3076T31,Tie_Down_Ring,Plain Carbon Steel,2,$2.19
